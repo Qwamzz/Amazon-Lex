@@ -1,17 +1,16 @@
 Introducing Today's Project!
 
 What is Amazon Lex?
-Amazon Lex is an AWS service for building conversational chatbots using voiceand text. It uses advanced machine learning to understand user input andrespond naturally.
+Amazon Lex is an AWS service for building conversational chatbots using voiceand text. It uses advanced machine learning to understand user input and respond naturally.
+
 How I used Amazon Lex in this project
-I used Amazon Lex to build a conversational interface for the chatbot, enablingit to understand and respond to user inputs. I configured intents and addedvariations to ensure dynamic, conversational responses.
+I used Amazon Lex to build a conversational interface for the chatbot, enabling it to understand and respond to user inputs. I configured intents and addedvariations to ensure dynamic, conversational responses.
 One thing I didn't expect in this project was...
-One thing I didn’t expect was the complexity of fine-tuning the FallbackIntent.Initially, I thought the default FallbackIntent message would be sufficient, but Irealized it needed more customization to make the chatbot's responses clearer.
+One thing I didn’t expect was the complexity of fine-tuning the FallbackIntent.Initially, I thought the default FallbackIntent message would be sufficient, but I realized it needed more customization to make the chatbot's responses clearer.
 
 This project took me...
 This project took me about an hour to complete.
-niiyarteygidiglo@gmail.c…
-NextWork Student
-NextWork.org
+
 Setting up a Lex chatbot
 I created my chatbot from scratch with Amazon Lex. Setting it up took me 8minutes
 While creating my chatbot, I also created a role with basic permissions becausebasic Amazon Lex permissions allow the chatbot to interact with other AWSservices.
