@@ -5,6 +5,8 @@ What is Amazon Lex?
 
 Amazon Lex is an AWS service for building conversational chatbots using voiceand text. It uses advanced machine learning to understand user input and respond naturally.
 
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/04fc39dd-50b4-4915-83dc-a4bb866e43f1" />
+
 How I used Amazon Lex in this project.
 
 I used Amazon Lex to build a conversational interface for the chatbot, enabling it to understand and respond to user inputs. I configured intents and addedvariations to ensure dynamic, conversational responses.
